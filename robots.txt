@@ -1,2 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://KangG4cor.github.io/Berita-Pendiri-Gamer-Terbaik-Buka-Suara-Soal-Pola-Permainan-online-Semua-Pemain-Pegesoft/sitemap.xml
